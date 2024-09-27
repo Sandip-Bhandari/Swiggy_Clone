@@ -1,3 +1,3 @@
 # My Project
 
-![Project Logo](/Swiggy_Clone.)
+![Project Logo](/Swiggy_Clone.jpeg)
